@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Normal.qml</file>
+        <file>Sad.qml</file>
+        <file>Smile.qml</file>
+        <file>Talk.qml</file>
+        <file>sad/1-01.png</file>
+        <file>sad/2-01.png</file>
+        <file>sad/3-01.png</file>
+        <file>sad/4-01.png</file>
+        <file>smile/1-01.png</file>
+        <file>smile/2-01.png</file>
+        <file>smile/3-01.png</file>
+        <file>smile/4-01.png</file>
+        <file>talk/1-01.png</file>
+        <file>talk/2-01.png</file>
+        <file>talk/3-01.png</file>
+        <file>talk/4-01.png</file>
+        <file>talk/5-01.png</file>
+        <file>talk/6-01.png</file>
+    </qresource>
+</RCC>
